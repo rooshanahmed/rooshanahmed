@@ -1,5 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 # Rooshan Ahmed [![HitCount](http://hits.dwyl.com/rooshanahmed/rooshanahmed.svg)](http://hits.dwyl.com/rooshanahmed/rooshanahmed)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rooshanahmed)
 
 
 - 🌱 I’m currently learning `React , React Native , Gatsby.Js , Serverless , JavaScript , TypeScript`
