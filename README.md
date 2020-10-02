@@ -3,8 +3,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rooshanahmed)
 
 
-- 🌱 I’m currently learning `React , React Native , Gatsby.Js , Serverless`
-- 📫 How to reach me: `rooshan.ahmed@hotmail.com`
+- 🌱 I’m currently learning `React , React Native , Gatsby.Js , Serverless.`
+- 📫 How to reach me: `rooshan.ahmed@hotmail.com.`
 
 <br />
 
