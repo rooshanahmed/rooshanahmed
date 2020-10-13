@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning `React , React Native , Gatsby.Js , Serverless.`
-- 📫 How to reach me: `rooshan.ahmed@hotmail.com.`
+- 📫 How to reach me: ``rooshan.ahmed@hotmail.com``
 
 <br />
 
