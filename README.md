@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
-  <img src="https://drive.google.com/file/d/1r99n_Faoj2gbtQOuzmp0zBEyvuBrh3P6/view" /> [![HitCount](http://hits.dwyl.com/rooshanahmed/rooshanahmed.svg)](http://hits.dwyl.com/rooshanahmed/rooshanahmed)
+# Rooshan Ahmed [![HitCount](http://hits.dwyl.com/rooshanahmed/rooshanahmed.svg)](http://hits.dwyl.com/rooshanahmed/rooshanahmed)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rooshanahmed)
 
 
