@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rooshanahmed)
 
 
-- 🌱 I’m currently learning `Gatsby.Js , JAMstack Serverless.`
+- 🌱 I’m currently learning `Gatsby.Js , JAMstack Serverless`
 - 📫 How to reach me: ```rooshan.ahmed@hotmail.com```
 
 <br />
